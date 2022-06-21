@@ -1,5 +1,5 @@
 title:Season of the Haunted custom wishlist
-description:Sources - TheGamer.com, TeamSkeeda.com, GameSkinny.com, Forbes (Paul TouchgrASSI)
+description:Sources - TheGamer.com, TeamSkeeda.com, GameSkinny.com
 
 // Horror's Least - TheGamer.com PVE (pve)
 //notes: tags:pve
@@ -61,9 +61,6 @@ dimwishlist:item=502356570&perks=1467527085,3142289711,744594675,2675184851
 dimwishlist:item=502356570&perks=1467527085,3142289711,2139363611,4293542123
 dimwishlist:item=502356570&perks=1467527085,3142289711,2139363611,2675184851
 
-
-// Drang (Baroque) - Paul TouchgrASSI PVE ()
-dimwishlist:item=502356570&perks=
 
 
 // Drang (Baroque) - Paul TouchgrASSI PVP (pvp)
